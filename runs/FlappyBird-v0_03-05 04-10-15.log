@@ -1,0 +1,17 @@
+Training started at 03-05 04-10-15 with hyperparameters: {'env_id': 'FlappyBird-v0', 'learning_rate_a': 0.01, 'discount_factor_g': 0.99, 'network_sync_rate': 10, 'replay_memory_size': 100000, 'mini_batch_size': 32, 'epsilon_init': 1, 'epsilon_decay': 0.99995, 'epsilon_min': 0.05, 'stop_on_reward': 100000, 'fc1_nodes': 10, 'env_make_params': {'use_lidar': False}, 'loss_fn': MSELoss(), 'optimizer': None, 'LOG_FILE': 'runs/FlappyBird-v0_03-05 04-10-15.log', 'MODEL_FILE': 'runs/FlappyBird-v0_03-05 04-10-15_model.pth', 'GRAPH_FILE': 'runs/FlappyBird-v0_03-05 04-10-15_graph.png'}
+New best reward: -6.90 at episode 0
+New best reward: -5.70 at episode 2
+New best reward: -2.10 at episode 5
+New best reward: 1.50 at episode 289
+New best reward: 3.90 at episode 2918
+New best reward: 5.00 at episode 9993
+New best reward: 6.20 at episode 12312
+New best reward: 6.30 at episode 14733
+New best reward: 6.60 at episode 17071
+New best reward: 6.70 at episode 18450
+New best reward: 6.80 at episode 19045
+New best reward: 8.40 at episode 22143
+New best reward: 8.80 at episode 22488
+New best reward: 9.10 at episode 23188
+New best reward: 11.00 at episode 23845
+New best reward: 13.70 at episode 27761
